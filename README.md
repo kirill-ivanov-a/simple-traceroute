@@ -16,7 +16,7 @@ cd simple-traceroute/
 ```
 ## Usage
 ```bash
-usage: sudo python -m traceroute [-h] [--max-hops NUM] [--first-hop NUM] [--port PORT] dest
+usage: sudo python3 -m traceroute [-h] [--max-hops NUM] [--first-hop NUM] [--port PORT] dest
 
 positional arguments:
   dest                  destination host
